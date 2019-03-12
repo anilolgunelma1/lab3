@@ -1,0 +1,20 @@
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\ders\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\olgunelma\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\olgunelma\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\olgunelma\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\olgunelma\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\olgunelma\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\olgunelma\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\olgunelma\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\olgunelma\Desktop\anıl\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\olgunelma\Desktop\anıl\bin\Debug\ConsoleApplication1.exe
+C:\Users\olgunelma\Desktop\anıl\bin\Debug\ConsoleApplication1.pdb
+C:\Users\olgunelma\Desktop\anıl\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\olgunelma\Desktop\anıl\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\olgunelma\Desktop\anıl\obj\Debug\ConsoleApplication1.exe
+C:\Users\olgunelma\Desktop\anıl\obj\Debug\ConsoleApplication1.pdb
